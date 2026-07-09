@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RiyaRaybole/LeetCode/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/RiyaRaybole/LeetCode/tree/master/0319-bulb-switcher) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RiyaRaybole/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/RiyaRaybole/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
