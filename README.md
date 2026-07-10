@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RiyaRaybole/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/RiyaRaybole/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/RiyaRaybole/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyaRaybole/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/RiyaRaybole/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyaRaybole/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
