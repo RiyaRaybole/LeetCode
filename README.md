@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RiyaRaybole/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiyaRaybole/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/RiyaRaybole/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaRaybole/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RiyaRaybole/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaRaybole/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RiyaRaybole/LeetCode/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaRaybole/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiyaRaybole/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaRaybole/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
 |  |
 | ------- |
