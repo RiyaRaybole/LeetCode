@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/RiyaRaybole/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyaRaybole/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiyaRaybole/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RiyaRaybole/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/RiyaRaybole/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RiyaRaybole/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/RiyaRaybole/LeetCode/tree/master/0179-largest-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/RiyaRaybole/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyaRaybole/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RiyaRaybole/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Binary Search
 |  |
 | ------- |
