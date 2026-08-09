@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RiyaRaybole/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/RiyaRaybole/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RiyaRaybole/LeetCode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/RiyaRaybole/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiyaRaybole/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RiyaRaybole/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RiyaRaybole/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RiyaRaybole/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiyaRaybole/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/RiyaRaybole/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RiyaRaybole/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
