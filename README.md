@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/RiyaRaybole/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/RiyaRaybole/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/RiyaRaybole/LeetCode/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/RiyaRaybole/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/RiyaRaybole/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyaRaybole/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RiyaRaybole/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/RiyaRaybole/LeetCode/tree/master/0242-valid-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RiyaRaybole/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/RiyaRaybole/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/RiyaRaybole/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/RiyaRaybole/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/RiyaRaybole/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/RiyaRaybole/LeetCode/tree/master/0443-string-compression) |
 ## Design
